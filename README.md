@@ -1,5 +1,6 @@
 # light_meter.Project
 light_meter.Project
+[182173_장한주] 기말프로젝트 [전기전자컴퓨터공학기초]
 
 SS, F, ISO controls not yet implemented
 
